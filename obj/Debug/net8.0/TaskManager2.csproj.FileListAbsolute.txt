@@ -136,3 +136,4 @@
 /home/marcelo-zuza/Developer/Pratice/Pratice-Projects/CSharp/TaskManager2/obj/Debug/net8.0/TaskManager2.pdb
 /home/marcelo-zuza/Developer/Pratice/Pratice-Projects/CSharp/TaskManager2/obj/Debug/net8.0/TaskManager2.genruntimeconfig.cache
 /home/marcelo-zuza/Developer/Pratice/Pratice-Projects/CSharp/TaskManager2/obj/Debug/net8.0/ref/TaskManager2.dll
+/home/marcelo-zuza/Developer/Pratice/Pratice-Projects/CSharp/TaskManager2/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
