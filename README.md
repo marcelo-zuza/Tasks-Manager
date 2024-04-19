@@ -1,0 +1,1 @@
+## Task Management API, with user registration and authentication developed using C#, ASP.NET, Entity Framework, and SQL Server.
